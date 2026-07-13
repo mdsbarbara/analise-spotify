@@ -70,5 +70,8 @@ O conjunto de dados é formado por duas tabelas fornecidas pela Laboratória, co
 - Geografia das Informações: A coluna main_country mapeia a origem do artista e não o local de consumo. Para entender o sucesso geográfico, seriam necessários dados baseados no local onde o stream foi realizado. 
 - Escalabilidade: As decisões sobre duplicatas foram executadas de forma manual e pontual por registro. Essa abordagem não é escalável para volumes massivos de dados, tornando crucial identificar a causa raiz das falhas na origem para evitar a entrada de dados inconsistentes. 
 
+### 📋 Anexos
+- Código SQL do projeto;
+- PDF contendo o painel de visualização de dados. 
 
     
